@@ -11,7 +11,8 @@ Compatibility notes: Port A is not supported on any AVR processors at this time
 [pixel]:  http://adafruit.com/products/1312
 [stick]:  http://adafruit.com/products/1426
 [shield]: http://adafruit.com/products/1430
-
+    
+	
 ---
 
 ## Installation
